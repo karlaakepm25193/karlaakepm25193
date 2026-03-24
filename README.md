@@ -1,9 +1,9 @@
 **¡Hola! Soy Karla Ake** ✋
 
-## Sobre ai
+## Sobre mi
 Soy estudiante de 2do semestre de la carrera de **Programacion**. Actualmente estoy surmegiendome en el mundo del desarrollo de software, enfocandome en construir bases solidas en logica y buenas practicas.
 
-- Colegio de Estudios Cientificos y Tecnologicos del Estado de Campeche plantel Pomuch
+-:me Colegio de Estudios Cientificos y Tecnologicos del Estado de Campeche plantel Pomuch
 - Actualmente aprendiendo: **Python** Y **Gestion de versiones con Git y GitHub**.
 - Mi meta actual: Dominar la logica de programacion para resolver problemas de manera eficiente.
   
